@@ -1,0 +1,1548 @@
+2025-01-19 18:59:30,285 - INFO - Cargando archivo: CO.csv
+2025-01-19 18:59:30,350 - INFO - Archivo CO.csv cargado correctamente con 96439 filas y 7 columnas.
+2025-01-19 18:59:30,398 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,399 - INFO - Archivo CO.csv procesado exitosamente.
+2025-01-19 18:59:30,400 - INFO - Cargando archivo: DIR.csv
+2025-01-19 18:59:30,492 - INFO - Archivo DIR.csv cargado correctamente con 103789 filas y 7 columnas.
+2025-01-19 18:59:30,540 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,542 - INFO - Archivo DIR.csv procesado exitosamente.
+2025-01-19 18:59:30,542 - INFO - Cargando archivo: HUM.csv
+2025-01-19 18:59:30,629 - INFO - Archivo HUM.csv cargado correctamente con 109148 filas y 7 columnas.
+2025-01-19 18:59:30,677 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,677 - INFO - Archivo HUM.csv procesado exitosamente.
+2025-01-19 18:59:30,678 - INFO - Cargando archivo: LLU.csv
+2025-01-19 18:59:30,725 - INFO - Archivo LLU.csv cargado correctamente con 75087 filas y 9 columnas.
+2025-01-19 18:59:30,762 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,763 - INFO - Archivo LLU.csv procesado exitosamente.
+2025-01-19 18:59:30,763 - INFO - Cargando archivo: NO2.csv
+2025-01-19 18:59:30,795 - INFO - Archivo NO2.csv cargado correctamente con 34729 filas y 8 columnas.
+2025-01-19 18:59:30,820 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,820 - INFO - Archivo NO2.csv procesado exitosamente.
+2025-01-19 18:59:30,821 - INFO - Cargando archivo: O3.csv
+2025-01-19 18:59:30,880 - INFO - Archivo O3.csv cargado correctamente con 72591 filas y 9 columnas.
+2025-01-19 18:59:30,914 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,915 - INFO - Archivo O3.csv procesado exitosamente.
+2025-01-19 18:59:30,915 - INFO - Cargando archivo: PM10.csv
+2025-01-19 18:59:30,937 - INFO - Archivo PM10.csv cargado correctamente con 27638 filas y 4 columnas.
+2025-01-19 18:59:30,952 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:30,953 - INFO - Archivo PM10.csv procesado exitosamente.
+2025-01-19 18:59:30,954 - INFO - Cargando archivo: PM25.csv
+2025-01-19 18:59:31,016 - INFO - Archivo PM25.csv cargado correctamente con 91528 filas y 7 columnas.
+2025-01-19 18:59:31,059 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,060 - INFO - Archivo PM25.csv procesado exitosamente.
+2025-01-19 18:59:31,060 - INFO - Cargando archivo: PRE.csv
+2025-01-19 18:59:31,122 - INFO - Archivo PRE.csv cargado correctamente con 92997 filas y 8 columnas.
+2025-01-19 18:59:31,165 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,166 - INFO - Archivo PRE.csv procesado exitosamente.
+2025-01-19 18:59:31,166 - INFO - Cargando archivo: RS.csv
+2025-01-19 18:59:31,232 - INFO - Archivo RS.csv cargado correctamente con 110119 filas y 8 columnas.
+2025-01-19 18:59:31,283 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,284 - INFO - Archivo RS.csv procesado exitosamente.
+2025-01-19 18:59:31,284 - INFO - Cargando archivo: SO2.csv
+2025-01-19 18:59:31,347 - INFO - Archivo SO2.csv cargado correctamente con 97432 filas y 7 columnas.
+2025-01-19 18:59:31,392 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,393 - INFO - Archivo SO2.csv procesado exitosamente.
+2025-01-19 18:59:31,393 - INFO - Cargando archivo: TMP.csv
+2025-01-19 18:59:31,464 - INFO - Archivo TMP.csv cargado correctamente con 110127 filas y 8 columnas.
+2025-01-19 18:59:31,514 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,516 - INFO - Archivo TMP.csv procesado exitosamente.
+2025-01-19 18:59:31,516 - INFO - Cargando archivo: VEL.csv
+2025-01-19 18:59:31,581 - INFO - Archivo VEL.csv cargado correctamente con 106233 filas y 8 columnas.
+2025-01-19 18:59:31,631 - INFO - Fechas parseadas correctamente usando el formato: %Y-%m-%d %H:%M:%S
+2025-01-19 18:59:31,632 - INFO - Archivo VEL.csv procesado exitosamente.
+2025-01-19 18:59:31,632 - INFO - Cargando metadatos de estaciones desde estaciones.csv
+2025-01-19 18:59:31,705 - INFO - Datos consolidados exitosamente con dimensiones: (13872, 84)
+2025-01-19 18:59:31,710 - INFO - Consolidación de datos completada.
+2025-01-19 18:59:32,151 - INFO - Archivo consolidado guardado exitosamente como 'consolidated_data.csv'.
+2025-01-19 19:02:34,571 - INFO - Datos cargados correctamente con 91528 filas y 6 columnas.
+2025-01-19 19:02:34,579 - INFO - Iniciando búsqueda de hiperparámetros...
+2025-01-19 19:05:32,902 - INFO - Mejores parámetros encontrados: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 200}
+2025-01-19 19:05:59,078 - INFO - Resultados optimizados del modelo - MAE: 19.3510, RMSE: 57.1117, R²: 0.1858
+2025-01-19 19:05:59,084 - INFO - Importancia de características calculada correctamente.
+2025-01-19 19:32:31,359 - INFO - Datos cargados correctamente con 91528 filas y 6 columnas.
+2025-01-19 19:32:31,369 - INFO - Iniciando búsqueda de hiperparámetros...
+2025-01-19 19:41:07,912 - INFO - Mejores parámetros encontrados: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+2025-01-19 19:41:20,555 - INFO - Resultados optimizados del modelo - MAE: 19.5226, RMSE: 57.5521, R²: 0.1732
+2025-01-19 19:41:20,559 - INFO - Importancia de características calculada correctamente.
+2025-01-19 19:44:27,514 - INFO - Datos cargados correctamente con 91528 filas y 6 columnas.
+2025-01-19 19:44:27,522 - INFO - Datos re-muestreados mensualmente con 157 filas.
+2025-01-19 19:44:28,124 - INFO - Creación de características temporales completada.
+2025-01-19 19:46:29,135 - ERROR - El archivo 'PM25_monthly.csv' no se encontró. Asegúrate de que esté en el directorio actual.
+2025-01-19 19:56:45,297 - INFO - Loading data from CO.csv
+2025-01-19 19:56:45,383 - INFO - Data loaded successfully with shape (96439, 6)
+2025-01-19 19:56:45,383 - INFO - Starting data preprocessing
+2025-01-19 19:56:45,390 - INFO - Missing values imputed
+2025-01-19 19:56:45,391 - INFO - Loading data from PM25.csv
+2025-01-19 19:56:45,458 - INFO - Data loaded successfully with shape (91528, 6)
+2025-01-19 19:56:45,458 - INFO - Starting data preprocessing
+2025-01-19 19:56:45,465 - INFO - Missing values imputed
+2025-01-19 19:56:45,466 - INFO - Merging datasets
+2025-01-19 19:56:45,500 - INFO - Visualizing data
+2025-01-19 19:56:47,501 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:49,437 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:51,420 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:53,328 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:55,237 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:57,162 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:56:59,001 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:00,891 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:02,773 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:04,685 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:06,567 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:08,442 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:10,320 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:12,179 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:14,090 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:16,059 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:17,880 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:19,735 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:21,627 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:23,512 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:25,412 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:27,330 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:29,223 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:31,290 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:33,165 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:35,225 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:37,077 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:38,962 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:40,883 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:42,779 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 19:57:44,662 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 20:05:10,331 - INFO - Loading all datasets
+2025-01-19 20:05:10,331 - INFO - Loading data from CO.csv
+2025-01-19 20:05:10,476 - INFO - Data loaded successfully with shape (96439, 6)
+2025-01-19 20:05:10,477 - INFO - Loading data from PM25.csv
+2025-01-19 20:05:10,627 - INFO - Data loaded successfully with shape (91528, 6)
+2025-01-19 20:05:10,628 - INFO - Loading data from DIR.csv
+2025-01-19 20:05:10,824 - INFO - Data loaded successfully with shape (103789, 6)
+2025-01-19 20:05:10,824 - INFO - Loading data from HUM.csv
+2025-01-19 20:05:11,012 - INFO - Data loaded successfully with shape (109148, 6)
+2025-01-19 20:05:11,013 - INFO - Loading data from LLU.csv
+2025-01-19 20:05:11,156 - INFO - Data loaded successfully with shape (75087, 8)
+2025-01-19 20:05:11,157 - INFO - Loading data from NO2.csv
+2025-01-19 20:05:11,242 - INFO - Data loaded successfully with shape (34729, 7)
+2025-01-19 20:05:11,242 - INFO - Loading data from O3.csv
+2025-01-19 20:05:11,390 - INFO - Data loaded successfully with shape (72591, 8)
+2025-01-19 20:05:11,391 - INFO - Loading data from PM10.csv
+2025-01-19 20:05:11,446 - INFO - Data loaded successfully with shape (27638, 3)
+2025-01-19 20:05:11,446 - INFO - Loading data from PRE.csv
+2025-01-19 20:05:11,609 - INFO - Data loaded successfully with shape (92997, 7)
+2025-01-19 20:05:11,610 - INFO - Loading data from RS.csv
+2025-01-19 20:05:11,780 - INFO - Data loaded successfully with shape (110119, 7)
+2025-01-19 20:05:11,781 - INFO - Loading data from SO2.csv
+2025-01-19 20:05:11,949 - INFO - Data loaded successfully with shape (97432, 6)
+2025-01-19 20:05:11,949 - INFO - Loading data from TMP.csv
+2025-01-19 20:05:12,136 - INFO - Data loaded successfully with shape (110127, 7)
+2025-01-19 20:05:12,137 - INFO - Loading data from VEL.csv
+2025-01-19 20:05:12,308 - INFO - Data loaded successfully with shape (106233, 7)
+2025-01-19 20:05:12,310 - INFO - Merging datasets
+2025-01-19 20:05:12,358 - ERROR - Error in main workflow: Reindexing only valid with uniquely valued Index objects
+2025-01-19 20:09:20,213 - INFO - Loading all datasets
+2025-01-19 20:09:20,213 - INFO - Loading data from CO.csv
+2025-01-19 20:09:20,401 - INFO - Data loaded successfully with shape (96439, 6)
+2025-01-19 20:09:20,402 - INFO - Loading data from PM25.csv
+2025-01-19 20:09:20,552 - INFO - Data loaded successfully with shape (91528, 6)
+2025-01-19 20:09:20,553 - INFO - Loading data from DIR.csv
+2025-01-19 20:09:20,725 - INFO - Data loaded successfully with shape (103789, 6)
+2025-01-19 20:09:20,726 - INFO - Loading data from HUM.csv
+2025-01-19 20:09:20,897 - INFO - Data loaded successfully with shape (109148, 6)
+2025-01-19 20:09:20,898 - INFO - Loading data from LLU.csv
+2025-01-19 20:09:21,018 - INFO - Data loaded successfully with shape (75087, 8)
+2025-01-19 20:09:21,019 - INFO - Loading data from NO2.csv
+2025-01-19 20:09:21,067 - INFO - Data loaded successfully with shape (34729, 7)
+2025-01-19 20:09:21,067 - INFO - Loading data from O3.csv
+2025-01-19 20:09:21,196 - INFO - Data loaded successfully with shape (72591, 8)
+2025-01-19 20:09:21,197 - INFO - Loading data from PM10.csv
+2025-01-19 20:09:21,241 - INFO - Data loaded successfully with shape (27638, 3)
+2025-01-19 20:09:21,242 - INFO - Loading data from PRE.csv
+2025-01-19 20:09:21,383 - INFO - Data loaded successfully with shape (92997, 7)
+2025-01-19 20:09:21,384 - INFO - Loading data from RS.csv
+2025-01-19 20:09:21,553 - INFO - Data loaded successfully with shape (110119, 7)
+2025-01-19 20:09:21,554 - INFO - Loading data from SO2.csv
+2025-01-19 20:09:21,703 - INFO - Data loaded successfully with shape (97432, 6)
+2025-01-19 20:09:21,704 - INFO - Loading data from TMP.csv
+2025-01-19 20:09:21,873 - INFO - Data loaded successfully with shape (110127, 7)
+2025-01-19 20:09:21,873 - INFO - Loading data from VEL.csv
+2025-01-19 20:09:22,028 - INFO - Data loaded successfully with shape (106233, 7)
+2025-01-19 20:09:22,029 - INFO - Loading station data from estaciones.csv
+2025-01-19 20:09:22,030 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:09:22,030 - INFO - Aligning datasets by common Date_time index
+2025-01-19 20:09:22,066 - ERROR - Error in main workflow: Reindexing only valid with uniquely valued Index objects
+2025-01-19 20:11:12,424 - INFO - Loading all datasets
+2025-01-19 20:11:12,425 - INFO - Loading data from CO.csv
+2025-01-19 20:11:12,595 - INFO - Data loaded successfully with shape (31624, 6)
+2025-01-19 20:11:12,595 - INFO - Loading data from PM25.csv
+2025-01-19 20:11:12,744 - INFO - Data loaded successfully with shape (25035, 6)
+2025-01-19 20:11:12,744 - INFO - Loading data from DIR.csv
+2025-01-19 20:11:12,917 - INFO - Data loaded successfully with shape (33323, 6)
+2025-01-19 20:11:12,917 - INFO - Loading data from HUM.csv
+2025-01-19 20:11:13,086 - INFO - Data loaded successfully with shape (36532, 6)
+2025-01-19 20:11:13,087 - INFO - Loading data from LLU.csv
+2025-01-19 20:11:13,209 - INFO - Data loaded successfully with shape (9523, 8)
+2025-01-19 20:11:13,210 - INFO - Loading data from NO2.csv
+2025-01-19 20:11:13,258 - INFO - Data loaded successfully with shape (27956, 7)
+2025-01-19 20:11:13,259 - INFO - Loading data from O3.csv
+2025-01-19 20:11:13,386 - INFO - Data loaded successfully with shape (10881, 8)
+2025-01-19 20:11:13,387 - INFO - Loading data from PM10.csv
+2025-01-19 20:11:13,432 - INFO - Data loaded successfully with shape (3132, 3)
+2025-01-19 20:11:13,432 - INFO - Loading data from PRE.csv
+2025-01-19 20:11:13,578 - INFO - Data loaded successfully with shape (24337, 7)
+2025-01-19 20:11:13,579 - INFO - Loading data from RS.csv
+2025-01-19 20:11:13,739 - INFO - Data loaded successfully with shape (37078, 7)
+2025-01-19 20:11:13,740 - INFO - Loading data from SO2.csv
+2025-01-19 20:11:13,889 - INFO - Data loaded successfully with shape (30849, 6)
+2025-01-19 20:11:13,889 - INFO - Loading data from TMP.csv
+2025-01-19 20:11:14,058 - INFO - Data loaded successfully with shape (37226, 7)
+2025-01-19 20:11:14,059 - INFO - Loading data from VEL.csv
+2025-01-19 20:11:14,217 - INFO - Data loaded successfully with shape (34244, 7)
+2025-01-19 20:11:14,217 - INFO - Loading station data from estaciones.csv
+2025-01-19 20:11:14,219 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:11:14,219 - INFO - Aligning datasets by common Date_time index
+2025-01-19 20:11:14,231 - INFO - Starting data preprocessing
+2025-01-19 20:11:14,234 - INFO - Missing values imputed
+2025-01-19 20:11:14,234 - INFO - Visualizing data
+2025-01-19 20:11:16,672 - INFO - Creating lag and rolling features
+2025-01-19 20:11:16,673 - ERROR - Error creating features: Cannot set a DataFrame with multiple columns to the single column lag_1
+2025-01-19 20:11:16,673 - ERROR - Error in main workflow: object of type 'NoneType' has no len()
+2025-01-19 20:13:53,228 - INFO - Data loaded successfully from CO.csv with shape (96439, 6)
+2025-01-19 20:13:53,296 - INFO - Data loaded successfully from PM25.csv with shape (91528, 6)
+2025-01-19 20:13:53,382 - INFO - Data loaded successfully from DIR.csv with shape (103789, 6)
+2025-01-19 20:13:53,468 - INFO - Data loaded successfully from HUM.csv with shape (109148, 6)
+2025-01-19 20:13:53,519 - INFO - Data loaded successfully from LLU.csv with shape (75087, 8)
+2025-01-19 20:13:53,553 - INFO - Data loaded successfully from NO2.csv with shape (34729, 7)
+2025-01-19 20:13:53,614 - INFO - Data loaded successfully from O3.csv with shape (72591, 8)
+2025-01-19 20:13:53,630 - INFO - Data loaded successfully from PM10.csv with shape (27638, 3)
+2025-01-19 20:13:53,699 - INFO - Data loaded successfully from PRE.csv with shape (92997, 7)
+2025-01-19 20:13:53,774 - INFO - Data loaded successfully from RS.csv with shape (110119, 7)
+2025-01-19 20:13:53,843 - INFO - Data loaded successfully from SO2.csv with shape (97432, 6)
+2025-01-19 20:13:53,921 - INFO - Data loaded successfully from TMP.csv with shape (110127, 7)
+2025-01-19 20:13:53,993 - INFO - Data loaded successfully from VEL.csv with shape (106233, 7)
+2025-01-19 20:13:53,994 - ERROR - Error loading data from estaciones.csv: list indices must be integers or slices, not NoneType
+2025-01-19 20:13:53,994 - INFO - Aligning datasets by common Date_time index
+2025-01-19 20:13:54,658 - INFO - Merged dataset shape: (118503, 84)
+2025-01-19 20:13:54,659 - INFO - Starting data preprocessing
+2025-01-19 20:13:54,701 - INFO - Missing values imputed
+2025-01-19 20:13:54,702 - INFO - Creating lag and rolling features
+2025-01-19 20:13:54,703 - ERROR - Error creating features: 'PM25'
+2025-01-19 20:13:57,855 - INFO - Processed data saved to processed_data.csv
+2025-01-19 20:13:57,855 - INFO - Dataset statistics:
+2025-01-19 20:13:58,101 - INFO -        BELISARIO_PM25  CARAPUNGO_PM25    CENTRO_PM25  COTOCOLLAO_PM25  \
+count   118503.000000   118503.000000  118503.000000    118503.000000   
+mean         1.329998        0.969109       0.988603         0.991642   
+std          1.505737        1.472979       0.821809         1.436012   
+min          0.000000        0.000000       0.000000         0.000000   
+25%          0.540000        0.370000       0.490000         0.400000   
+50%          0.850000        0.540000       0.770000         0.600000   
+75%          1.510000        0.880000       1.230000         1.020000   
+max         35.040000       44.320000       8.100000        33.296000   
+
+       EL_CAMAL_PM25    GUAMANI_LLU  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.096292       0.541190       21.078267       22.528204   
+std         1.664871       0.438651       28.729954       43.137877   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.410000       0.290000        9.630000        9.200000   
+50%         0.760000       0.500000       16.870000       16.560000   
+75%         1.290000       0.720000       26.170000       23.480000   
+max        52.480000       5.550000     1025.600000     1159.200000   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       17.115822        18.159579  ...        18.522735         4.328366   
+std        13.615443        33.748421  ...        30.126606        30.684357   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%         8.700000         6.290000  ...        11.790000         0.000000   
+50%        14.570000        13.150000  ...        14.200000         0.000000   
+75%        23.190000        21.070000  ...        18.960000         0.000000   
+max       524.700000      1038.240000  ...       394.240000       403.200000   
+
+         TUMBACO_VEL  BELISARIO_VEL      CARAPUNGO  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       19.833925       2.294650       2.145858        2.145912   
+std        30.917333       3.743627       4.092331        4.740725   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.010000       1.060000       0.750000        0.730000   
+50%        15.030000       1.720000       1.340000        1.270000   
+75%        19.560000       2.590000       2.620000        2.560000   
+max       417.600000      75.840000     104.320000      115.200000   
+
+        EL_CAMAL_VEL    LOS_CHILLOS    SAN_ANTONIO    TUMBACO_VEL  
+count  118503.000000  118503.000000  118503.000000  118503.000000  
+mean        1.949575       1.924348       0.361384       1.864044  
+std         3.849872       3.882546       3.194501       3.653309  
+min         0.000000       0.000000       0.000000       0.000000  
+25%         0.730000       0.840000       0.000000       0.780000  
+50%         1.400000       1.250000       0.000000       1.160000  
+75%         2.400000       2.180000       0.000000       2.030000  
+max        86.720000     105.280000      77.280000     100.960000  
+
+[8 rows x 84 columns]
+2025-01-19 20:14:55,844 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:14:55,936 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:14:56,009 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:14:56,073 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:14:56,114 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:14:56,137 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:14:56,187 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:14:56,201 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:14:56,253 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:14:56,307 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:14:56,359 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:14:56,418 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:14:56,473 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:14:56,475 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:19:29,411 - ERROR - Error merging datasets: Unable to allocate 32.1 GiB for an array with shape (4309909398,) and data type datetime64[ns]
+2025-01-19 20:20:25,359 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:20:25,433 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:20:25,512 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:20:25,585 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:20:25,649 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:20:25,677 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:20:25,733 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:20:25,749 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:20:25,821 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:20:25,887 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:20:25,949 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:20:26,036 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:20:26,113 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:20:26,118 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:20:27,262 - ERROR - Error merging datasets: Reindexing only valid with uniquely valued Index objects
+2025-01-19 20:21:10,954 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:21:11,014 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:21:11,089 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:21:11,159 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:21:11,203 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:21:11,228 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:21:11,286 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:21:11,301 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:21:11,357 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:21:11,417 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:21:11,476 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:21:11,542 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:21:11,600 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:21:11,603 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:21:11,695 - INFO - Preprocessed data successfully
+2025-01-19 20:21:11,782 - INFO - Preprocessed data successfully
+2025-01-19 20:21:11,883 - INFO - Preprocessed data successfully
+2025-01-19 20:21:11,983 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,086 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,115 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,210 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,262 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,371 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,490 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,607 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,737 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,854 - INFO - Preprocessed data successfully
+2025-01-19 20:21:12,881 - INFO - Merged dataset shape: (70678, 84)
+2025-01-19 20:21:12,904 - INFO - Missing values imputed
+2025-01-19 20:21:12,905 - ERROR - Target column 'PM25' not found in the dataset
+2025-01-19 20:21:14,872 - INFO - Processed data saved to processed_data.csv
+2025-01-19 20:21:15,002 - INFO - Dataset summary:
+          BELISARIO     CARAPUNGO        CENTRO    COTOCOLLAO      EL_CAMAL  \
+count  70678.000000  70678.000000  70678.000000  70678.000000  70678.000000   
+mean       1.612589      1.286177      1.034320      1.291084      1.392546   
+std        1.840072      1.798835      0.946845      1.754326      2.023775   
+min        0.000000      0.000000      0.000000      0.000000      0.000000   
+25%        0.630000      0.620000      0.680000      0.730000      0.580000   
+50%        0.630000      0.690000      0.680000      0.730000      0.670000   
+75%        2.230000      1.130000      1.220000      1.300000      1.530000   
+max       35.040001     44.320000      8.100000     33.296001     52.480000   
+
+            GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25   CENTRO_PM25  \
+count  70678.000000    70678.000000    70678.000000  70678.000000   
+mean       0.548985       29.686922       29.209846     16.242970   
+std        0.471752       33.925671       52.775757     11.248609   
+min        0.000000        0.000000        0.000000      0.000000   
+25%        0.000000       24.459999       17.370001     11.630000   
+50%        0.710000       26.480000       23.830000     14.530000   
+75%        0.780000       26.760000       23.830000     14.530000   
+max        3.460000     1025.599976     1159.199951    524.700012   
+
+       COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP   TUMBACO_TMP  \
+count     70678.000000  ...     70678.000000     70678.000000  70678.000000   
+mean         23.073725  ...        19.764910         7.257200     21.158112   
+std          41.595875  ...        38.620945        39.463646     39.785885   
+min           0.000000  ...         0.000000         0.000000      0.000000   
+25%           9.940000  ...        12.180000         0.000000     13.840000   
+50%          21.799999  ...        13.430000         0.000000     14.000000   
+75%          21.799999  ...        14.460000         0.000000     15.840000   
+max        1038.239990  ...       394.239990       403.200012    417.600006   
+
+       BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  EL_CAMAL_VEL  \
+count   70678.000000   70678.000000    70678.000000  70678.000000   
+mean        3.038074       2.040383        2.274484      2.349594   
+std         4.648418       5.143815        5.989755      4.786328   
+min         0.000000       0.000000        0.000000      0.000000   
+25%         1.890000       0.980000        1.000000      1.450000   
+50%         2.570000       0.980000        1.410000      1.450000   
+75%         2.570000       1.600000        1.410000      1.910000   
+max        75.839996     104.320000      115.199997     86.720001   
+
+       LOS_CHILLOS_VEL  SAN_ANTONIO_VEL   TUMBACO_VEL  
+count     70678.000000     70678.000000  70678.000000  
+mean          1.996611         0.605918      1.813383  
+std           4.893513         4.118492      4.592100  
+min           0.000000         0.000000      0.000000  
+25%           1.042500         0.000000      0.930000  
+50%           1.290000         0.000000      1.090000  
+75%           1.430000         0.000000      1.210000  
+max         105.279999        77.279999    100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:23:14,500 - INFO - Cargando el archivo procesado: processed_data.csv
+2025-01-19 20:23:14,834 - INFO - Datos cargados correctamente con forma (70678, 84)
+2025-01-19 20:24:51,974 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 20:24:53,618 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-19 20:34:15,575 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:34:15,634 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:34:15,708 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:34:15,777 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:34:15,820 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:34:15,846 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:34:15,901 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:34:15,916 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:34:15,974 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:34:16,035 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:34:16,093 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:34:16,157 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:34:16,218 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:34:16,220 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:34:16,314 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,407 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,503 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,601 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,688 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,713 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,801 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,851 - INFO - Preprocessed data successfully
+2025-01-19 20:34:16,952 - INFO - Preprocessed data successfully
+2025-01-19 20:34:17,065 - INFO - Preprocessed data successfully
+2025-01-19 20:34:17,175 - INFO - Preprocessed data successfully
+2025-01-19 20:34:17,292 - INFO - Preprocessed data successfully
+2025-01-19 20:34:17,404 - INFO - Preprocessed data successfully
+2025-01-19 20:34:17,428 - INFO - Merged dataset shape: (70678, 84)
+2025-01-19 20:34:18,860 - INFO - Missing data visualization completed
+2025-01-19 20:34:18,872 - ERROR - Error imputing missing values with SAITS: No module named 'saits'
+2025-01-19 20:37:12,274 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:37:12,329 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:37:12,400 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:37:12,470 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:37:12,513 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:37:12,538 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:37:12,592 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:37:12,608 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:37:12,664 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:37:12,723 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:37:12,779 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:37:12,842 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:37:12,902 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:37:12,903 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:37:12,987 - INFO - Preprocessed data successfully
+2025-01-19 20:37:13,072 - INFO - Preprocessed data successfully
+2025-01-19 20:37:13,167 - INFO - Preprocessed data successfully
+2025-01-19 20:37:13,263 - INFO - Preprocessed data successfully
+2025-01-19 20:38:05,308 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:38:05,367 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:38:05,439 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:38:05,505 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:38:05,548 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:38:05,573 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:38:05,636 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:38:05,652 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:38:05,708 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:38:05,766 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:38:05,822 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:38:05,887 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:38:05,946 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:38:05,948 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:38:06,029 - INFO - Preprocessed data successfully
+2025-01-19 20:38:06,115 - INFO - Preprocessed data successfully
+2025-01-19 20:38:06,207 - INFO - Preprocessed data successfully
+2025-01-19 20:38:06,304 - INFO - Preprocessed data successfully
+2025-01-19 20:39:53,910 - INFO - Data loaded successfully from CO.csv with shape (96439, 7)
+2025-01-19 20:39:53,967 - INFO - Data loaded successfully from PM25.csv with shape (91528, 7)
+2025-01-19 20:39:54,036 - INFO - Data loaded successfully from DIR.csv with shape (103789, 7)
+2025-01-19 20:39:54,105 - INFO - Data loaded successfully from HUM.csv with shape (109148, 7)
+2025-01-19 20:39:54,148 - INFO - Data loaded successfully from LLU.csv with shape (75087, 9)
+2025-01-19 20:39:54,176 - INFO - Data loaded successfully from NO2.csv with shape (34729, 8)
+2025-01-19 20:39:54,238 - INFO - Data loaded successfully from O3.csv with shape (72591, 9)
+2025-01-19 20:39:54,253 - INFO - Data loaded successfully from PM10.csv with shape (27638, 4)
+2025-01-19 20:39:54,313 - INFO - Data loaded successfully from PRE.csv with shape (92997, 8)
+2025-01-19 20:39:54,373 - INFO - Data loaded successfully from RS.csv with shape (110119, 8)
+2025-01-19 20:39:54,428 - INFO - Data loaded successfully from SO2.csv with shape (97432, 7)
+2025-01-19 20:39:54,492 - INFO - Data loaded successfully from TMP.csv with shape (110127, 8)
+2025-01-19 20:39:54,550 - INFO - Data loaded successfully from VEL.csv with shape (106233, 8)
+2025-01-19 20:39:54,552 - INFO - Stations data loaded successfully with shape (10, 3)
+2025-01-19 20:39:54,592 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,600 - INFO - Memory optimization completed
+2025-01-19 20:39:54,638 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,645 - INFO - Memory optimization completed
+2025-01-19 20:39:54,693 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,700 - INFO - Memory optimization completed
+2025-01-19 20:39:54,753 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,763 - INFO - Memory optimization completed
+2025-01-19 20:39:54,810 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,818 - INFO - Memory optimization completed
+2025-01-19 20:39:54,849 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,854 - INFO - Memory optimization completed
+2025-01-19 20:39:54,903 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,911 - INFO - Memory optimization completed
+2025-01-19 20:39:54,947 - INFO - Preprocessed data successfully
+2025-01-19 20:39:54,949 - INFO - Memory optimization completed
+2025-01-19 20:39:55,011 - INFO - Preprocessed data successfully
+2025-01-19 20:39:55,020 - INFO - Memory optimization completed
+2025-01-19 20:39:55,091 - INFO - Preprocessed data successfully
+2025-01-19 20:39:55,101 - INFO - Memory optimization completed
+2025-01-19 20:39:55,172 - INFO - Preprocessed data successfully
+2025-01-19 20:39:55,179 - INFO - Memory optimization completed
+2025-01-19 20:39:55,252 - INFO - Preprocessed data successfully
+2025-01-19 20:39:55,261 - INFO - Memory optimization completed
+2025-01-19 20:39:55,327 - INFO - Preprocessed data successfully
+2025-01-19 20:39:55,336 - INFO - Memory optimization completed
+2025-01-19 20:39:55,364 - INFO - Merged dataset shape: (118503, 84)
+2025-01-19 20:39:57,258 - INFO - Missing data visualization completed
+2025-01-19 20:39:57,459 - INFO - Missing values imputed using mean strategy
+2025-01-19 20:40:03,138 - INFO - Processed data saved to processed_data_imputed.csv
+2025-01-19 20:40:03,149 - INFO - Created PM_Avg column using 8 PM-related columns
+2025-01-19 20:40:03,378 - INFO - Final dataset summary:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  SAN_ANTONIO_TMP    TUMBACO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000  118503.000000   
+mean       18.302726        20.979486  ...         4.533458      20.004181   
+std        12.031028        31.692031  ...        30.198521      30.389972   
+min         0.000000         0.000000  ...         0.000000       0.000000   
+25%        11.360000        10.780000  ...         0.000000      13.040000   
+50%        18.302726        18.730000  ...         0.000000      15.500000   
+75%        21.580000        20.979486  ...         0.000000      20.004181   
+max       524.700012      1038.239990  ...       403.200012     417.600006   
+
+       BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL   EL_CAMAL_VEL  \
+count  118503.000000  118503.000000   118503.000000  118503.000000   
+mean        2.344252       2.172009        2.274456       1.957891   
+std         3.658885       3.993829        4.630095       3.766330   
+min         0.000000       0.000000        0.000000       0.000000   
+25%         1.120000       0.840000        0.870000       0.830000   
+50%         1.860000       1.520000        1.570000       1.530000   
+75%         2.470000       2.340000        2.440000       2.190000   
+max        75.839996     104.320000      115.199997      86.720001   
+
+       LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL         PM_Avg  
+count    118503.000000    118503.000000  118503.000000  118503.000000  
+mean          1.965516         0.392036       1.866511      38.404812  
+std           3.769500         3.137493       3.548231      42.521982  
+min           0.000000         0.000000       0.000000       0.000000  
+25%           0.890000         0.000000       0.790000      30.398046  
+50%           1.350000         0.000000       1.210000      35.925546  
+75%           1.965516         0.000000       1.866511      38.404812  
+max         105.279999        77.279999     100.959999    1827.439970  
+
+[8 rows x 85 columns]
+2025-01-19 20:44:10,637 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 20:44:10,701 - INFO - Date_time column normalized and set as index
+2025-01-19 20:44:10,955 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:44:12,189 - INFO - Correlation heatmap displayed
+2025-01-19 20:44:12,618 - INFO - Time series plot displayed
+2025-01-19 20:44:18,297 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 20:47:13,157 - INFO - Data loaded successfully with shape (118503, 84)
+2025-01-19 20:47:16,975 - INFO - Temporal trends plot displayed
+2025-01-19 20:47:17,028 - ERROR - Error plotting seasonal patterns: agg function failed [how->mean,dtype->object]
+2025-01-19 20:50:47,190 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 20:50:47,253 - INFO - Date_time column normalized and set as index
+2025-01-19 20:50:47,503 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:50:48,750 - INFO - Correlation heatmap displayed
+2025-01-19 20:50:49,181 - INFO - Time series plot displayed
+2025-01-19 20:50:50,433 - INFO - Seasonal patterns plots displayed
+2025-01-19 20:50:50,807 - INFO - PCA visualization displayed
+2025-01-19 20:50:56,844 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 20:53:44,837 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 20:53:44,900 - INFO - Date_time column normalized and set as index
+2025-01-19 20:53:45,147 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:53:46,367 - INFO - Correlation heatmap displayed
+2025-01-19 20:53:46,789 - INFO - Time series plot displayed
+2025-01-19 20:53:47,960 - INFO - Seasonal patterns plots displayed
+2025-01-19 20:53:48,909 - INFO - PCA visualization displayed
+2025-01-19 20:53:55,008 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 20:56:32,180 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 20:56:32,245 - INFO - Date_time column normalized and set as index
+2025-01-19 20:56:32,496 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:56:33,748 - INFO - Correlation heatmap displayed
+2025-01-19 20:56:34,188 - INFO - Time series plot displayed
+2025-01-19 20:56:36,542 - INFO - Seasonal patterns plots displayed
+2025-01-19 20:56:37,480 - INFO - PCA visualization displayed
+2025-01-19 20:56:43,533 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 20:59:13,758 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 20:59:13,819 - INFO - Date_time column normalized and set as index
+2025-01-19 20:59:14,067 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 20:59:15,292 - INFO - Correlation heatmap displayed
+2025-01-19 20:59:16,078 - INFO - Time series plot displayed
+2025-01-19 20:59:16,290 - INFO - Seasonal patterns plots displayed
+2025-01-19 20:59:17,271 - INFO - PCA visualization displayed
+2025-01-19 20:59:23,285 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:01:51,614 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:01:51,680 - INFO - Date_time column normalized and set as index
+2025-01-19 21:01:51,931 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:01:53,168 - INFO - Correlation heatmap displayed
+2025-01-19 21:01:53,872 - INFO - Time series plot for all stations displayed
+2025-01-19 21:01:54,136 - INFO - Seasonal patterns plots for all stations displayed
+2025-01-19 21:01:55,078 - INFO - PCA visualization displayed
+2025-01-19 21:02:01,076 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:02:26,731 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:02:26,794 - INFO - Date_time column normalized and set as index
+2025-01-19 21:02:27,037 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:02:28,263 - INFO - Correlation heatmap displayed
+2025-01-19 21:02:28,694 - INFO - Time series plot displayed
+2025-01-19 21:02:28,917 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:02:29,882 - INFO - PCA visualization displayed
+2025-01-19 21:02:36,093 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:06:56,392 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:06:56,455 - INFO - Date_time column normalized and set as index
+2025-01-19 21:06:56,703 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:06:57,936 - INFO - Correlation heatmap displayed
+2025-01-19 21:06:58,344 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:06:59,291 - INFO - PCA visualization displayed
+2025-01-19 21:07:05,347 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:09:25,607 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:09:25,670 - INFO - Date_time column normalized and set as index
+2025-01-19 21:09:26,025 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:09:32,071 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:09:59,960 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:10:00,022 - INFO - Date_time column normalized and set as index
+2025-01-19 21:10:00,376 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:11:52,428 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:11:52,487 - INFO - Date_time column normalized and set as index
+2025-01-19 21:11:52,797 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:11:53,720 - INFO - PCA visualization displayed
+2025-01-19 21:11:59,830 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:12:10,937 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:12:10,998 - INFO - Date_time column normalized and set as index
+2025-01-19 21:12:11,238 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:12:12,446 - INFO - Correlation heatmap displayed
+2025-01-19 21:12:12,854 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:12:13,788 - INFO - PCA visualization displayed
+2025-01-19 21:12:19,814 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:14:40,874 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:14:40,937 - INFO - Date_time column normalized and set as index
+2025-01-19 21:14:41,177 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:14:42,413 - INFO - Correlation heatmap displayed
+2025-01-19 21:14:42,826 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:14:43,781 - INFO - PCA visualization displayed
+2025-01-19 21:14:49,980 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:15:13,981 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:15:14,043 - INFO - Date_time column normalized and set as index
+2025-01-19 21:15:14,340 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:15:15,550 - INFO - Correlation heatmap displayed
+2025-01-19 21:15:15,951 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:15:16,880 - INFO - PCA visualization displayed
+2025-01-19 21:15:22,992 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:16:03,272 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:16:03,332 - INFO - Date_time column normalized and set as index
+2025-01-19 21:16:03,582 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:16:04,801 - INFO - Correlation heatmap displayed
+2025-01-19 21:16:05,248 - INFO - Time series plot displayed
+2025-01-19 21:16:07,210 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:16:08,175 - INFO - PCA visualization displayed
+2025-01-19 21:16:14,293 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:18:01,013 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:18:01,074 - INFO - Date_time column normalized and set as index
+2025-01-19 21:18:01,329 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:18:02,563 - INFO - Correlation heatmap displayed
+2025-01-19 21:18:03,352 - INFO - Time series plot displayed
+2025-01-19 21:18:04,363 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:18:05,283 - INFO - PCA visualization displayed
+2025-01-19 21:18:11,274 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:18:34,988 - INFO - Dataset loaded successfully with shape (118503, 85)
+2025-01-19 21:18:35,049 - INFO - Date_time column normalized and set as index
+2025-01-19 21:18:35,295 - INFO - Data description:
+           BELISARIO      CARAPUNGO         CENTRO     COTOCOLLAO  \
+count  118503.000000  118503.000000  118503.000000  118503.000000   
+mean        1.134153       0.834572       0.922968       0.890944   
+std         1.203552       1.271739       0.667016       1.279402   
+min         0.000000       0.000000       0.000000       0.000000   
+25%         0.560000       0.400000       0.540000       0.420000   
+50%         0.970000       0.600000       0.880000       0.680000   
+75%         1.134153       0.834572       1.010000       0.890944   
+max        35.040001      44.320000       8.100000      33.296001   
+
+            EL_CAMAL        GUAMANI  BELISARIO_PM25  CARAPUNGO_PM25  \
+count  118503.000000  118503.000000   118503.000000   118503.000000   
+mean        1.057498       0.587144       21.550218       24.524508   
+std         1.552954       0.392028       27.177946       41.862551   
+min         0.000000       0.000000        0.000000        0.000000   
+25%         0.480000       0.390000       11.910000       11.610000   
+50%         0.900000       0.587144       20.540001       20.830000   
+75%         1.057498       0.680000       21.550218       24.524508   
+max        52.480000       5.550000     1025.599976     1159.199951   
+
+         CENTRO_PM25  COTOCOLLAO_PM25  ...  LOS_CHILLOS_TMP  SAN_ANTONIO_TMP  \
+count  118503.000000    118503.000000  ...    118503.000000    118503.000000   
+mean       18.302726        20.979486  ...        18.971867         4.533458   
+std        12.031028        31.692031  ...        29.501529        30.198521   
+min         0.000000         0.000000  ...         0.000000         0.000000   
+25%        11.360000        10.780000  ...        12.060000         0.000000   
+50%        18.302726        18.730000  ...        14.700000         0.000000   
+75%        21.580000        20.979486  ...        18.971867         0.000000   
+max       524.700012      1038.239990  ...       394.239990       403.200012   
+
+         TUMBACO_TMP  BELISARIO_VEL  CARAPUNGO_VEL  COTOCOLLAO_VEL  \
+count  118503.000000  118503.000000  118503.000000   118503.000000   
+mean       20.004181       2.344252       2.172009        2.274456   
+std        30.389972       3.658885       3.993829        4.630095   
+min         0.000000       0.000000       0.000000        0.000000   
+25%        13.040000       1.120000       0.840000        0.870000   
+50%        15.500000       1.860000       1.520000        1.570000   
+75%        20.004181       2.470000       2.340000        2.440000   
+max       417.600006      75.839996     104.320000      115.199997   
+
+        EL_CAMAL_VEL  LOS_CHILLOS_VEL  SAN_ANTONIO_VEL    TUMBACO_VEL  
+count  118503.000000    118503.000000    118503.000000  118503.000000  
+mean        1.957891         1.965516         0.392036       1.866511  
+std         3.766330         3.769500         3.137493       3.548231  
+min         0.000000         0.000000         0.000000       0.000000  
+25%         0.830000         0.890000         0.000000       0.790000  
+50%         1.530000         1.350000         0.000000       1.210000  
+75%         2.190000         1.965516         0.000000       1.866511  
+max        86.720001       105.279999        77.279999     100.959999  
+
+[8 rows x 84 columns]
+2025-01-19 21:18:36,542 - INFO - Correlation heatmap displayed
+2025-01-19 21:18:37,334 - INFO - Time series plot displayed
+2025-01-19 21:18:37,731 - INFO - Seasonal patterns plots displayed
+2025-01-19 21:18:38,664 - INFO - PCA visualization displayed
+2025-01-19 21:18:44,831 - INFO - Final processed data saved to final_processed_data.csv
+2025-01-19 21:45:12,820 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-19 21:45:12,823 - INFO - Starting data preprocessing...
+2025-01-19 21:45:12,853 - INFO - Missing data imputed using time-based interpolation.
+2025-01-19 21:45:12,959 - INFO - Data scaled using StandardScaler.
+2025-01-19 21:45:12,961 - INFO - Starting feature engineering...
+2025-01-19 21:45:12,998 - INFO - Feature engineering completed.
+2025-01-19 21:45:13,081 - INFO - Data split into training (94778 samples) and testing (23695 samples) sets.
+2025-01-19 21:45:13,087 - INFO - Training the model...
+2025-01-19 21:45:19,060 - INFO - Model training completed.
+2025-01-19 21:45:19,100 - INFO - Evaluation Metrics - RMSE: 1.493752948672564, MAE: 0.40706947291907103, R2: 0.4707741064810508
+2025-01-19 21:51:47,882 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-19 21:51:47,892 - INFO - Starting data preprocessing...
+2025-01-19 21:51:47,920 - INFO - Missing data imputed using time-based interpolation.
+2025-01-19 21:51:48,018 - INFO - Data scaled using StandardScaler.
+2025-01-19 21:51:48,022 - INFO - Starting feature engineering...
+2025-01-19 21:51:48,061 - INFO - Feature engineering completed.
+2025-01-19 21:51:48,153 - INFO - Data split into training (94778 samples) and testing (23695 samples) sets.
+2025-01-19 21:51:48,157 - INFO - Training the model...
+2025-01-19 21:51:54,090 - INFO - Model training completed.
+2025-01-19 21:51:54,128 - INFO - Evaluation Metrics - RMSE: 1.493752948672564, MAE: 0.40706947291907103, R2: 0.4707741064810508
+2025-01-19 21:55:48,921 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-19 21:55:48,931 - INFO - Starting data preprocessing...
+2025-01-19 21:55:48,958 - INFO - Missing data imputed using time-based interpolation.
+2025-01-19 21:55:48,961 - INFO - Starting feature engineering...
+2025-01-19 21:55:48,999 - INFO - Feature engineering completed.
+2025-01-19 21:55:49,095 - INFO - Training XGBRegressor...
+2025-01-19 21:55:55,352 - INFO - XGBRegressor - RMSE: 39.67019333649488, MAE: 10.857880460947868, R2: 0.4946612749196847, MAPE: 318833888028210.3
+2025-01-19 21:55:55,352 - INFO - Training RandomForestRegressor...
+2025-01-19 21:58:37,253 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-19 21:58:37,259 - INFO - Starting data preprocessing...
+2025-01-19 21:58:37,286 - INFO - Missing data imputed using time-based interpolation.
+2025-01-19 21:58:37,289 - INFO - Starting feature engineering...
+2025-01-19 21:58:37,325 - INFO - Feature engineering completed.
+2025-01-19 21:58:37,371 - INFO - Processing station: BELISARIO_PM25
+2025-01-19 21:58:37,424 - INFO - Training XGBRegressor...
+2025-01-19 21:58:43,590 - INFO - XGBRegressor - RMSE: 39.67019333649488, MAE: 10.857880460947868, R2: 0.4946612749196847, MAPE: 318833888028210.3
+2025-01-19 21:58:43,591 - INFO - Training RandomForestRegressor...
+2025-01-19 22:09:27,447 - INFO - RandomForestRegressor - RMSE: 39.392208626466825, MAE: 11.419525435093522, R2: 0.5017186769761773, MAPE: 181906634625554.9
+2025-01-19 22:09:27,614 - INFO - Processing station: CARAPUNGO_PM25
+2025-01-19 22:09:27,682 - INFO - Training XGBRegressor...
+2025-01-19 22:09:33,387 - INFO - XGBRegressor - RMSE: 63.9513910883069, MAE: 18.02954530815185, R2: 0.46481731896779366, MAPE: 573856530182253.1
+2025-01-19 22:09:33,388 - INFO - Training RandomForestRegressor...
+2025-01-19 22:11:34,843 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-19 22:11:34,844 - INFO - Starting data preprocessing...
+2025-01-19 22:11:34,872 - INFO - Missing data imputed using time-based interpolation.
+2025-01-19 22:11:34,875 - INFO - Starting feature engineering...
+2025-01-19 22:11:34,912 - INFO - Feature engineering completed.
+2025-01-19 22:11:34,953 - INFO - Processing station: BELISARIO_PM25
+2025-01-19 22:11:35,008 - INFO - Training XGBRegressor...
+2025-01-19 22:11:41,293 - INFO - XGBRegressor - RMSE: 39.67019333649488, MAE: 10.857880460947868, R2: 0.4946612749196847, MAPE: 318833888028210.3
+2025-01-19 22:11:41,294 - INFO - Training RandomForestRegressor...
+2025-01-19 22:22:24,734 - INFO - RandomForestRegressor - RMSE: 39.392208626466825, MAE: 11.419525435093522, R2: 0.5017186769761773, MAPE: 181906634625554.9
+2025-01-19 22:22:24,940 - INFO - Processing station: CARAPUNGO_PM25
+2025-01-19 22:22:25,006 - INFO - Training XGBRegressor...
+2025-01-19 22:22:30,757 - INFO - XGBRegressor - RMSE: 63.9513910883069, MAE: 18.02954530815185, R2: 0.46481731896779366, MAPE: 573856530182253.1
+2025-01-19 22:22:30,758 - INFO - Training RandomForestRegressor...
+2025-01-19 22:39:48,462 - INFO - RandomForestRegressor - RMSE: 50.850861106722924, MAE: 14.851939785693874, R2: 0.6616246776358732, MAPE: 477657905331735.1
+2025-01-19 22:39:48,644 - INFO - Processing station: CENTRO_PM25
+2025-01-19 22:39:48,711 - INFO - Training XGBRegressor...
+2025-01-19 22:39:54,815 - INFO - XGBRegressor - RMSE: 6.766319933054034, MAE: 3.484866166586329, R2: 0.6431021976293592, MAPE: 3896024999253807.5
+2025-01-19 22:39:54,816 - INFO - Training RandomForestRegressor...
+2025-01-19 22:57:34,054 - INFO - RandomForestRegressor - RMSE: 16.63998601954032, MAE: 5.881866442048029, R2: -1.1584636060146134, MAPE: 1.42189685834077e+16
+2025-01-19 22:57:34,220 - INFO - Processing station: COTOCOLLAO_PM25
+2025-01-19 22:57:34,291 - INFO - Training XGBRegressor...
+2025-01-19 22:57:40,338 - INFO - XGBRegressor - RMSE: 38.27353234563564, MAE: 10.829121227053541, R2: 0.6621135234048767, MAPE: 419906941535831.25
+2025-01-19 22:57:40,340 - INFO - Training RandomForestRegressor...
+2025-01-19 23:08:56,575 - INFO - RandomForestRegressor - RMSE: 39.89316580164176, MAE: 11.683744983705735, R2: 0.6329115484264372, MAPE: 472201596901360.1
+2025-01-19 23:08:56,756 - INFO - Processing station: EL_CAMAL_PM25
+2025-01-19 23:08:56,825 - INFO - Training XGBRegressor...
+2025-01-19 23:09:02,601 - INFO - XGBRegressor - RMSE: 70.56909993374968, MAE: 14.31828976913788, R2: 0.41327697229876703, MAPE: 2246909438736773.5
+2025-01-19 23:09:02,601 - INFO - Training RandomForestRegressor...
+2025-01-19 23:20:19,280 - INFO - RandomForestRegressor - RMSE: 86.27898072914331, MAE: 19.153415758676914, R2: 0.12297092979131541, MAPE: 1043370949321214.8
+2025-01-20 16:44:46,888 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-20 16:44:46,901 - INFO - Starting data preprocessing...
+2025-01-20 16:44:46,958 - INFO - Missing data imputed using time-based interpolation.
+2025-01-20 16:44:46,960 - INFO - Starting feature engineering...
+2025-01-20 16:44:47,118 - INFO - Feature engineering completed.
+2025-01-20 16:44:47,213 - INFO - Processing station: BELISARIO_PM25
+2025-01-20 16:45:36,616 - INFO - XGBRegressor - RMSE: 13.52787990582151, MAE: 5.568693935048377, R2: 0.6686944467337732, MAPE: 164950239814086.8
+2025-01-20 17:58:40,228 - INFO - RandomForestRegressor - RMSE: 13.179175818064857, MAE: 5.661360809783711, R2: 0.6683726379598214, MAPE: 145473121391554.88
+2025-01-20 17:58:40,427 - INFO - Data resampled to M frequency.
+2025-01-20 18:11:22,740 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-20 18:11:22,750 - INFO - Starting data preprocessing...
+2025-01-20 18:11:22,778 - INFO - Missing data imputed using time-based interpolation.
+2025-01-20 18:11:22,781 - INFO - Starting feature engineering...
+2025-01-20 18:11:22,821 - INFO - Feature engineering completed.
+2025-01-20 18:11:22,865 - INFO - Processing station: BELISARIO_PM25
+2025-01-20 18:11:46,487 - INFO - XGBRegressor - RMSE: 13.52787990582151, MAE: 5.568693935048377, R2: 0.6686944467337732, MAPE: 164950239814086.8
+2025-01-21 18:24:51,983 - INFO - RandomForestRegressor - RMSE: 13.179175818064857, MAE: 5.661360809783711, R2: 0.6683726379598214, MAPE: 145473121391554.88
+2025-01-21 18:24:52,298 - INFO - Data resampled to MS frequency.
+2025-01-21 19:49:28,787 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-21 19:49:28,799 - INFO - Starting data preprocessing...
+2025-01-21 19:49:28,826 - INFO - Missing data imputed using time-based interpolation.
+2025-01-21 19:49:28,828 - INFO - Starting feature engineering...
+2025-01-21 19:49:28,865 - INFO - Feature engineering completed.
+2025-01-21 19:49:28,902 - INFO - Processing station: BELISARIO_PM25
+2025-01-21 19:49:49,888 - INFO - XGBRegressor - RMSE: 13.52787990582151, MAE: 5.568693935048377, R2: 0.6686944467337732, MAPE: 164950239814086.8
+2025-01-21 20:20:28,445 - INFO - RandomForestRegressor - RMSE: 13.179175818064857, MAE: 5.661360809783711, R2: 0.6683726379598214, MAPE: 145473121391554.88
+2025-01-21 20:20:28,577 - INFO - Data resampled to MS frequency.
+2025-01-21 20:43:23,614 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-21 20:43:23,614 - INFO - Starting data preprocessing...
+2025-01-21 20:43:23,642 - INFO - Missing data imputed using time-based interpolation.
+2025-01-21 20:43:23,645 - INFO - Starting feature engineering...
+2025-01-21 20:43:23,678 - INFO - Feature engineering completed.
+2025-01-21 20:43:23,716 - INFO - Processing station: BELISARIO_PM25
+2025-01-21 20:43:45,231 - INFO - XGBRegressor - RMSE: 13.52787990582151, MAE: 5.568693935048377, R2: 0.6686944467337732, MAPE: 164950239814086.8
+2025-01-21 21:13:42,495 - INFO - RandomForestRegressor - RMSE: 13.179175818064857, MAE: 5.661360809783711, R2: 0.6683726379598214, MAPE: 145473121391554.88
+2025-01-21 21:13:42,633 - INFO - Data resampled to MS frequency.
+2025-01-21 21:13:42,800 - INFO - Processing station: CARAPUNGO_PM25
+2025-01-21 21:14:04,055 - INFO - XGBRegressor - RMSE: 19.468803219837856, MAE: 7.98277408661576, R2: 0.5463798653743017, MAPE: 361243784655169.9
+2025-01-21 21:46:10,985 - INFO - RandomForestRegressor - RMSE: 18.024087910963786, MAE: 7.689645599984958, R2: 0.5564960502018608, MAPE: 344011008999891.3
+2025-01-21 21:46:11,191 - INFO - Data resampled to MS frequency.
+2025-01-21 21:46:11,357 - INFO - Processing station: CENTRO_PM25
+2025-01-21 21:46:32,920 - INFO - XGBRegressor - RMSE: 7.020309373662814, MAE: 4.342117666718026, R2: 0.6579668471563463, MAPE: 1722403964653893.2
+2025-01-21 22:17:49,919 - INFO - RandomForestRegressor - RMSE: 9.614572828292847, MAE: 4.904895573986898, R2: 0.01138016977693015, MAPE: 3597358712491756.0
+2025-01-21 22:17:50,091 - INFO - Data resampled to MS frequency.
+2025-01-21 22:17:50,270 - INFO - Processing station: COTOCOLLAO_PM25
+2025-01-21 22:18:12,024 - INFO - XGBRegressor - RMSE: 13.98958489643628, MAE: 5.873623949219106, R2: 0.6238677534202482, MAPE: 220967800479727.75
+2025-01-21 23:16:11,086 - INFO - RandomForestRegressor - RMSE: 15.028762151366873, MAE: 6.356085427688652, R2: 0.6108414494539693, MAPE: 245883422970413.6
+2025-01-21 23:16:11,298 - INFO - Data resampled to MS frequency.
+2025-01-21 23:16:11,569 - INFO - Processing station: EL_CAMAL_PM25
+2025-01-21 23:16:51,227 - INFO - XGBRegressor - RMSE: 21.304325637261847, MAE: 6.953399456360698, R2: 0.6786777864501176, MAPE: 822700612088200.6
+2025-01-22 10:38:54,333 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-22 10:38:54,343 - INFO - Starting data preprocessing...
+2025-01-22 10:38:54,376 - INFO - Missing data imputed using time-based interpolation.
+2025-01-22 10:38:54,379 - INFO - Starting feature engineering...
+2025-01-22 10:38:54,415 - INFO - Feature engineering completed.
+2025-01-22 10:38:54,465 - INFO - Processing station: BELISARIO_PM25
+2025-01-22 10:39:19,723 - INFO - XGBRegressor - RMSE: 13.52787990582151, MAE: 5.568693935048377, R2: 0.6686944467337732, MAPE: 164950239814086.8
+2025-01-22 11:11:23,418 - INFO - RandomForestRegressor - RMSE: 13.148915840416905, MAE: 5.654456112872701, R2: 0.6684608724274075, MAPE: 142981590537547.25
+2025-01-22 11:11:23,681 - INFO - Data resampled to MS frequency.
+2025-01-22 11:11:23,871 - INFO - Processing station: CARAPUNGO_PM25
+2025-01-22 11:11:47,588 - INFO - XGBRegressor - RMSE: 19.468803219837856, MAE: 7.98277408661576, R2: 0.5463798653743017, MAPE: 361243784655169.9
+2025-01-22 11:45:45,292 - INFO - RandomForestRegressor - RMSE: 18.124947409517485, MAE: 7.721762959102921, R2: 0.5551918447669365, MAPE: 339503244754469.9
+2025-01-22 11:45:45,570 - INFO - Data resampled to MS frequency.
+2025-01-22 11:45:45,759 - INFO - Processing station: CENTRO_PM25
+2025-01-22 11:46:10,513 - INFO - XGBRegressor - RMSE: 7.020309373662814, MAE: 4.342117666718026, R2: 0.6579668471563463, MAPE: 1722403964653893.2
+2025-01-22 12:22:36,945 - INFO - RandomForestRegressor - RMSE: 9.811566478815388, MAE: 4.953483752049868, R2: -0.0635793225744469, MAPE: 3813164175232968.0
+2025-01-22 12:22:37,269 - INFO - Data resampled to MS frequency.
+2025-01-22 12:22:37,768 - INFO - Processing station: COTOCOLLAO_PM25
+2025-01-22 12:23:20,926 - INFO - XGBRegressor - RMSE: 13.98958489643628, MAE: 5.873623949219106, R2: 0.6238677534202482, MAPE: 220967800479727.75
+2025-01-22 13:11:07,976 - INFO - RandomForestRegressor - RMSE: 14.739923252462635, MAE: 6.253231280931193, R2: 0.6163755123932894, MAPE: 245420969706942.4
+2025-01-22 13:11:08,271 - INFO - Data resampled to MS frequency.
+2025-01-22 13:11:08,481 - INFO - Processing station: EL_CAMAL_PM25
+2025-01-22 13:11:40,389 - INFO - XGBRegressor - RMSE: 21.304325637261847, MAE: 6.953399456360698, R2: 0.6786777864501176, MAPE: 822700612088200.6
+2025-01-22 13:47:13,798 - INFO - RandomForestRegressor - RMSE: 25.55024892315298, MAE: 8.361469412347258, R2: 0.599214845924943, MAPE: 522774854532341.9
+2025-01-22 13:47:14,002 - INFO - Data resampled to MS frequency.
+2025-01-22 14:21:02,859 - ERROR - Importing plotly failed. Interactive plots will not work.
+2025-01-22 14:23:34,526 - INFO - Dataset 'processed_data_imputed.csv' loaded successfully with shape (118503, 85)
+2025-01-22 14:23:34,537 - INFO - Starting data preprocessing...
+2025-01-22 14:23:34,574 - INFO - Missing data imputed using time-based interpolation.
+2025-01-22 14:23:34,577 - INFO - Starting feature engineering...
+2025-01-22 14:23:34,618 - INFO - Feature engineering completed.
