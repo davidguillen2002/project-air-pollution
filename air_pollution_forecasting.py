@@ -37,9 +37,11 @@ def load_data(file_path, static_path):
 # ==========================
 def preprocess_data(data):
     logging.info("Starting data preprocessing...")
-    data.set_index("Date_time", inplace=True)
-    data = data.interpolate(method="time")
-    logging.info("Missing data imputed using time-based interpolation.")
+    data = data.sort_values(by="Date_time")  # Asegurar el orden cronológico
+    data = data.set_index("Date_time")  # Usar Date_time como índice
+    data = data.interpolate(method="time")  # Imputar valores faltantes
+    data = data.reset_index()  # Restaurar Date_time como columna
+    logging.info("Data preprocessing completed.")
     return data
 
 # ==========================
@@ -56,10 +58,10 @@ def feature_engineering(data, pm_columns):
         data[f"{col}_rolling_mean_7"] = data[col].rolling(window=7).mean()
         data[f"{col}_rolling_std_7"] = data[col].rolling(window=7).std()
 
-    data["dayofweek"] = data.index.dayofweek
-    data["month"] = data.index.month
-    data["quarter"] = data.index.quarter
-    data["year"] = data.index.year
+    data["dayofweek"] = data["Date_time"].dt.dayofweek
+    data["month"] = data["Date_time"].dt.month
+    data["quarter"] = data["Date_time"].dt.quarter
+    data["year"] = data["Date_time"].dt.year
 
     logging.info("Feature engineering completed.")
     return data.dropna()
@@ -141,7 +143,7 @@ def build_streamlit_app():
     station = st.selectbox("Select a station:", pm_columns)
 
     st.write("### Model Training")
-    X = data.drop(columns=pm_columns)
+    X = data.drop(columns=pm_columns + ["Date_time"])
     y = data[station]
     results = train_models_with_tscv(X, y)
     st.write(results)
